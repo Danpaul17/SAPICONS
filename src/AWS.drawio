@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-08T14:44:47.050Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="UySJcLIyu-GPcjsuwpP2" version="24.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-08T15:07:36.204Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="7yQ0Y7qU7qLgtYUC8RDt" version="24.0.2" type="github">
   <diagram name="Page-1" id="orGSNZj-qPQdUXUPWK8y">
     <mxGraphModel dx="1635" dy="981" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -123,6 +123,9 @@
         </mxCell>
         <mxCell id="c0l4ifxjdg84_ocbIZef-102" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#0387fb;strokeWidth=3;fillColor=#0387fb;" vertex="1" parent="c0l4ifxjdg84_ocbIZef-6">
           <mxGeometry x="502" y="339" width="15" height="11" as="geometry" />
+        </mxCell>
+        <mxCell id="c0l4ifxjdg84_ocbIZef-103" value="AWS EKS Cluster" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="c0l4ifxjdg84_ocbIZef-6">
+          <mxGeometry x="283" y="165" width="136" height="30" as="geometry" />
         </mxCell>
         <mxCell id="c0l4ifxjdg84_ocbIZef-28" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.users.user;fillColor=#7FBA42;" vertex="1" parent="1">
           <mxGeometry x="69" y="205" width="46" height="50" as="geometry" />
